@@ -35,6 +35,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
+---
+
 ###
 
 <h3 align="left">기술 블로그 : <a href="https://porapo99.vercel.app/" target="_blank" rel="noopener noreferrer">porapo99 블로그</a></h3>
