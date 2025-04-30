@@ -1,3 +1,4 @@
+
 <h1 align="left">👋 만나서 정말 반갑습니다!</h1>
 
 ###
@@ -36,6 +37,6 @@
 
 ###
 
-<p align="left">기술 블로그 : <a href="https://porapo99.vercel.app/" target="_blank" rel="noopener noreferrer">porapo99 블로그</a></p>
+<h3 align="left">기술 블로그 : <a href="https://porapo99.vercel.app/" target="_blank" rel="noopener noreferrer">porapo99 블로그</a></h3>
 
 ###
